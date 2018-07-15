@@ -1,0 +1,97 @@
+{
+
+"basics":{
+
+"name":"RAMYASRI NALLA",
+
+"email":"ramyasrinalla1998@gmail.com",
+
+"mobile":"9876543210"
+
+},
+
+"career":{
+
+  "info":"Looking for a position where I can integrate strategies to develop and expand existing customer sales, brand and product evolution, and media endorsement."
+
+},
+
+"education":[{
+
+  "degree":"b.tech(cse)",
+
+  "insitute":"avanthi",
+
+  "data":["2015-19","70%"]
+
+},
+
+{
+
+    "degree":"inter",
+
+    "insitute":"narayana",
+
+    "data":["2013-15","73%"]
+
+ 
+
+},
+
+{
+
+    "degree":"10",
+
+    "insitute":"bhashyam",
+
+    "data":["2013","78%"]
+
+ 
+
+}
+
+],
+
+"skills":[
+
+  {
+
+    "title":" programming Language",
+
+    "info":["c","c++","java","phython","R"]
+
+  },{
+
+    "title":"database",
+
+"info":["mongoDb","mysql","oracle"]
+
+},
+
+{
+
+  "title":"web Technologies",
+
+"info":["HTML5","css3","javascript"]
+
+},
+
+{
+
+"title":"libraries and Frameworks",
+
+"info":["ionic","Angular","Expressjs",".Net"]
+
+},
+
+{
+
+"title":"operating systems",
+
+"info":["Linux","Windows","Dos"]
+
+}
+
+]
+
+}
